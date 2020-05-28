@@ -23,6 +23,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "use-reducer-logger": "^1.0.0"
+    "use-reducer-logger": "^1.0.2"
   }
 }
